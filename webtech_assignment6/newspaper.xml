@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "newspaper.dtd">
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Ram" EDITOR="Sudhir" EDITION="101">
+        <HEADLINE>Turkey attacks Russia</HEADLINE>
+        <BYLINE>Ram</BYLINE>
+        <LEAD>Nagarik News</LEAD>
+        <BODY>Turkey has attacked Russia's figher plane</BODY>
+        <NOTES>All the articles are up to date.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Shyam"  DATE="11/29/2015">
+        <HEADLINE>India's Blockade in Nepal</HEADLINE>
+        <BYLINE>Shyam</BYLINE>
+        <LEAD>Nagarik News</LEAD>
+        <BODY>India has done unofficial blockade in Nepal.</BODY>
+        <NOTES>All the articles are up to date.</NOTES>
+    </ARTICLE>
+    <ARTICLE AUTHOR="Sandesh" EDITION="101">
+        <HEADLINE>Nepalese protest in front of Whitehouse</HEADLINE>
+        <BYLINE>Sandesh</BYLINE>
+        <LEAD>Nagarik News</LEAD>
+        <BODY>Nepalese has protested against India's Unofficial blockade in front of whitehouse.</BODY>
+        <NOTES>All the articles are up to date.</NOTES>
+    </ARTICLE>
+</NEWSPAPER>
